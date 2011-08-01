@@ -1,0 +1,3 @@
+[submodule "com_cci"]
+	path = com_cci
+	url = git@github.com:CCI-Studios/com_CCI.git
